@@ -1,2 +1,2 @@
 @Echo off
-python main.py
+python c-realV2.py
